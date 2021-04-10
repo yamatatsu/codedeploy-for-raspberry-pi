@@ -1,9 +1,4 @@
-# tv-kesu
-
-1. web cam
-1. 判定
-1. kick remo
-1. テレビ消す
+# codedeploy for raspberry pi
 
 ## やったこと
 
